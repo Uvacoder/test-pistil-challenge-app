@@ -65,3 +65,5 @@ yarn run dev
 - Design improvements
 - Separate filter in another component 
 - Dynamic Pre-Rendering with Next.js
+
+<a href="https://ibb.co/vYhsnFZ"><img src="https://i.ibb.co/vYhsnFZ/Screen-Shot-2021-08-10-at-21-37-03.png" alt="Screen-Shot-2021-08-10-at-21-37-03" border="0" /></a>
