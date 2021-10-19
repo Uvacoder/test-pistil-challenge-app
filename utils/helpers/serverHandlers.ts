@@ -1,6 +1,6 @@
 import { rest } from 'msw';
 
-import { mockedProducts } from '../../__mocks__/products';
+import { mockedProducts } from '../mocks/products';
 
 const API_URL = 'http://localhost:3000/api/products';
 

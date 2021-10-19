@@ -1,11 +1,5 @@
 import styled, { css } from 'styled-components';
 
-const sizes = {
-  large: '30rem',
-  medium: '20rem',
-  small: '15rem',
-};
-
 export const Input = styled.input`
   ${({ theme }) => css`
     background: ${theme.colors.white};

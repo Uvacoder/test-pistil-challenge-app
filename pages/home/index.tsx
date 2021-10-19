@@ -1,10 +1,10 @@
 import { FormEvent, useState, useEffect, useCallback } from "react";
-import InfiniteScroll from 'react-infinite-scroller';
+// import InfiniteScroll from 'react-infinite-scroller';
 
-import { productsService } from "../services";
-import { IFilterParams, IProduct } from "../utils/types";
-import { Button, Card, Header, Input, Select } from "../components";
-import * as S from "./styles";
+import { productsService } from "../../services";
+import { IFilterParams, IProduct } from "../../utils/types";
+import { Button, Card, Header, Input, Select } from "../../components";
+import * as S from "../styles";
 
 const Home = () => {
   const defaultFilters: IFilterParams = {
