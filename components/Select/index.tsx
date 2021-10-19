@@ -5,7 +5,7 @@ export const Select = ({
   children,
   ...props
 }: ISelectProps) => (
-  <S.Select {...props}>
+  <S.Select {...props} data-testid="select">
     {children}
   </S.Select>
 );
